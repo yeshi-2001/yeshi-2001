@@ -8,7 +8,7 @@
 - 📫 How to reach me **yeshikabandara2001@gmail.com**
 
 - ⚡ Fun fact **Call me as Yeshi**
-- 🎨 Check out my Figma design: [Figma Link](https://www.figma.com/@yeshikabandara)
+- 🎨 Check out my Figma design: [Here](https://www.figma.com/@yeshikabandara)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
