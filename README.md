@@ -62,16 +62,13 @@ const yeshika = {
 
 <p align="center">
   <a href="https://linkedin.com/in/yeshika-bandara" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="40" width="40" />
   </a>
   <a href="https://instagram.com/yeshi_4160" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://fb.com/yeshika-bandara" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram" height="40" width="40" />
   </a>
   <a href="mailto:yeshikabandara2001@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" height="40" width="40" />
   </a>
 </p>
 
