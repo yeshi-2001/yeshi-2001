@@ -90,20 +90,26 @@ const yeshika = {
 
 ---
 
-### 🤝 Let's Connect
+### 💌 Let's Build Together!
 
 <p align="center">
-  <a href="https://linkedin.com/in/yeshika-bandara" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="40" width="40" />
-  </a>
-  <a href="https://instagram.com/yeshi_4160" target="_blank">
-    <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram" height="40" width="40" />
-  </a>
-  <a href="mailto:yeshikabandara2001@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" height="40" width="40" />
-  </a>
+  <i>I'm always open to collaborating on exciting projects or just having a chat!</i>
 </p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/yeshika-bandara">
+    <img src="https://img.shields.io/badge/%F0%9F%92%BC%20LinkedIn-Connect-0077B5?style=for-the-badge" />
+  </a>
+  <a href="mailto:yeshikabandara2001@gmail.com">
+    <img src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-Say%20Hello-D14836?style=for-the-badge" />
+  </a>
+  <a href="https://www.figma.com/@yeshikabandara">
+    <img src="https://img.shields.io/badge/%F0%9F%8E%A8%20Figma-View%20Work-F24E1E?style=for-the-badge" />
+  </a>
+  <a href="https://instagram.com/yeshi_4160">
+    <img src="https://img.shields.io/badge/%F0%9F%93%B8%20Instagram-Follow-E4405F?style=for-the-badge" />
+  </a>
+</p>
 ---
 
 <div align="center">
