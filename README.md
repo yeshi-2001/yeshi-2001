@@ -73,6 +73,37 @@ const yeshika = {
 ![Video Editing](https://img.shields.io/badge/-Video%20Editing-9B59B6?style=flat-square&logo=adobepremierepro&logoColor=white)
 
 ---
+### 🛠️ Tech Stack
+
+**💻 Programming**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,cpp&theme=dark" />
+</p>
+
+**🎨 Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,figma&theme=dark" />
+</p>
+
+**⚙️ Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,spring,nodejs,express&theme=dark" />
+</p>
+
+**🗄️ Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
+</p>
+
+**☁️ Cloud & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,firebase,docker,git&theme=dark" />
+</p>
+
+**🔧 Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=github,postman,vscode&theme=dark" />
+</p>
 
 ### 🤝 Soft Skills
 
