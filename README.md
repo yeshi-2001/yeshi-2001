@@ -110,7 +110,6 @@ const yeshika = {
     <img src="https://img.shields.io/badge/%F0%9F%93%B8%20Instagram-Follow-E4405F?style=for-the-badge" />
   </a>
 </p>
----
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
