@@ -31,7 +31,6 @@ const yeshika = {
 - ⚡ Always learning, always creating
 
 ---
-
 ### 🛠️ Tech Stack
 
 **💻 Programming**
