@@ -31,37 +31,41 @@ const yeshika = {
 - ⚡ Always learning, always creating
 
 ---
-### 🛠️ Tech Stack
+<div align="center">
 
-**💻 Programming**
+## 🛠️ Tech Stack
+
+### 💻 Programming
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,js,cpp&theme=dark" />
 </p>
 
-**🎨 Frontend**
+### 🎨 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,figma&theme=dark" />
 </p>
 
-**⚙️ Backend**
+### ⚙️ Backend
 <p>
   <img src="https://skillicons.dev/icons?i=flask,spring,nodejs,express&theme=dark" />
 </p>
 
-**🗄️ Databases**
+### 🗄️ Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
 </p>
 
-**☁️ Cloud & DevOps**
+### ☁️ Cloud & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=aws,firebase,docker,git&theme=dark" />
 </p>
 
-**🔧 Tools**
+### 🔧 Tools
 <p>
   <img src="https://skillicons.dev/icons?i=github,postman,vscode&theme=dark" />
 </p>
+
+</div>
 
 ### 🤝 Soft Skills
 
